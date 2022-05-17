@@ -3,7 +3,7 @@
 'use strict';
 
 /**
- * Module dependencies.
+ * Module dependencies. This is a comment.
  */
 
 if (process.env.NEW_RELIC_LICENSE_KEY) {
